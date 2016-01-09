@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mvnKotlin:war exploded">
+    <output-path>$PROJECT_DIR$/target/mvnKotlin</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mvnKotlin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.0.0-beta-4584" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-runtime:1.0.0-beta-4584" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/mvnKotlin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mvnKotlin/web/Web" />
+    </root>
+  </artifact>
+</component>
