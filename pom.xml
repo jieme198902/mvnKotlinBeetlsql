@@ -2,8 +2,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>himiten</groupId>
-  <artifactId>mvnKotlin</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>mvnKotlinBeetlsql</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>mvnKotlin Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -209,7 +209,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mvnKotlin</finalName>
+    <finalName>mvnKotlinBeetlsql</finalName>
     <plugins>
       <plugin>
         <artifactId>kotlin-maven-plugin</artifactId>

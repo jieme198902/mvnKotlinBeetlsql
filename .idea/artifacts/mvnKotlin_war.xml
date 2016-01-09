@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="mvnKotlin:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="mvnKotlin.war">
+    <root id="archive" name="mvnKotlinBeetlsql.war">
       <element id="artifact" artifact-name="mvnKotlin:war exploded" />
     </root>
   </artifact>
