@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="mvnKotlin" />
+          <element id="module-output" name="mvnKotlinBeetlsql" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.4.RELEASE" />
@@ -45,7 +45,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/mvnKotlinBeetlsql/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="mvnKotlin/web/Web" />
+      <element id="javaee-facet-resources" facet="mvnKotlinBeetlsql/web/Web" />
     </root>
   </artifact>
 </component>

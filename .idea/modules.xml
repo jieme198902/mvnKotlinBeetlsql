@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mvnKotlin.iml" filepath="$PROJECT_DIR$/mvnKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvnKotlinBeetlsql.iml" filepath="$PROJECT_DIR$/mvnKotlinBeetlsql.iml" />
     </modules>
   </component>
 </project>
